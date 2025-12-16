@@ -7,19 +7,6 @@ build/
 !gradle/wrapper/gradle-wrapper.properties
 !gradle/wrapper/gradle-wrapper.jar
 
-*.class
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-.idea/
-*.iml
-*.iws
-*.ipr
-
 build/
 out/
 target/
